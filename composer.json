@@ -23,7 +23,6 @@
         "php" : ">=7.1",
         "thecodingmachine/tdbm" : "^5.0",
         "silex/silex": "^2.0",
-        "knplabs/console-service-provider": "^2.0",
         "chh/cache-service-provider": "^2.0"
     },
     "autoload" : {
